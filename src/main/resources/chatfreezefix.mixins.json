@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "su.plo.chatfreezefix.client.mixin",
+    "compatibilityLevel": "JAVA_16",
+    "mixins": [
+    ],
+    "client": [
+        "MixinSocialInteractionsManager"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
